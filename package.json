@@ -1,0 +1,11 @@
+{
+      "name": "portales-de-luz",
+        "version": "1.0.0",
+          "type": "module",
+            "dependencies": {
+                "three": "^0.157.0"
+                  },
+                    "scripts": {
+                        "start": "vite"
+                          }
+                          }
